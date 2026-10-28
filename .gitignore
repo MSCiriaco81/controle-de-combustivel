@@ -1,0 +1,35 @@
+# Arquivos de Build e Compilação
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/*/build
+
+# Arquivos de cache e logs do Android Studio
+.idea/
+captures/
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+*.ap_
+
+# Relatórios e Profiling
+*.hprof
+
+# Assinaturas e chaves de segurança (NUNCA versionar)
+*.jks
+*.keystore
+
+# Variáveis e configurações locais
+local.properties
+
+# Google Services / Firebase (se usar futuramente)
+google-services.json
